@@ -1,0 +1,10 @@
+node_modules
+*.db
+.git
+.gitignore
+Dockerfile
+Jenkinsfile
+k8s
+monitoring
+Report.md
+TESTING.md
