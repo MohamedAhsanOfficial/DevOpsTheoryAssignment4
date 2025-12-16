@@ -6,5 +6,5 @@ spec:
   selector:
     app: notes-db
   ports:
-    - port: 5432
-      targetPort: 5432
+    - port: 6000
+      targetPort: 6000
